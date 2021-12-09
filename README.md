@@ -32,6 +32,7 @@ charm to the code by bringing it to life!
 
 
 
+
 Advantages of the application:
 
 Modularised codebase- Efficient change of functionalities as the skeleton of the code is loosely coupled.
@@ -51,6 +52,7 @@ API-Flask - Usage of an API makes it convenient to run multiple requests to the 
             Reference: https://www.guru99.com/flask-vs-django.html#:~:text=Flask%20is%20a%20Python%20web,offers%20a%20Monolithic%20working%20style.&text=Flask%20is%20WSGI%20framework%20while%20Django%20is%20a%20Full%20Stack%20Web%20Framework.
 
 Javascript front-end - This makes it easier to download the results into a csv and also view the map to check the co-ordinates
+
 
 
 
