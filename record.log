@@ -1,0 +1,21 @@
+2021-12-08 22:07:06,404 WARNING werkzeug MainThread :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 22:07:06,404 INFO werkzeug MainThread :  * Running on http://192.168.0.45:5000/ (Press CTRL+C to quit)
+2021-12-08 22:07:32,148 INFO werkzeug Thread-1 : 192.168.0.45 - - [08/Dec/2021 22:07:32] "GET / HTTP/1.1" 200 -
+2021-12-08 22:07:32,626 INFO werkzeug Thread-3 : 192.168.0.45 - - [08/Dec/2021 22:07:32] "GET /static/js/app.js HTTP/1.1" 200 -
+2021-12-08 22:07:32,626 INFO werkzeug Thread-2 : 192.168.0.45 - - [08/Dec/2021 22:07:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2021-12-08 22:09:56,042 INFO werkzeug Thread-4 : 192.168.0.45 - - [08/Dec/2021 22:09:56] "GET /geocoder HTTP/1.1" 200 -
+2021-12-08 22:10:57,127 INFO werkzeug Thread-5 : 192.168.0.45 - - [08/Dec/2021 22:10:57] "GET / HTTP/1.1" 200 -
+2021-12-08 22:10:57,157 INFO werkzeug Thread-6 : 192.168.0.45 - - [08/Dec/2021 22:10:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2021-12-08 22:10:57,158 INFO werkzeug Thread-7 : 192.168.0.45 - - [08/Dec/2021 22:10:57] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2021-12-08 22:15:25,433 INFO werkzeug Thread-8 : 192.168.0.45 - - [08/Dec/2021 22:15:25] "GET /geocoder HTTP/1.1" 200 -
+2021-12-08 22:16:51,038 INFO werkzeug Thread-9 : 192.168.0.45 - - [08/Dec/2021 22:16:51] "GET / HTTP/1.1" 200 -
+2021-12-08 22:16:51,081 INFO werkzeug Thread-10 : 192.168.0.45 - - [08/Dec/2021 22:16:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2021-12-08 22:16:51,082 INFO werkzeug Thread-11 : 192.168.0.45 - - [08/Dec/2021 22:16:51] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2021-12-08 22:59:49,165 WARNING werkzeug MainThread :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 22:59:49,165 INFO werkzeug MainThread :  * Running on http://192.168.0.45:5000/ (Press CTRL+C to quit)
+2021-12-08 23:00:15,319 INFO werkzeug Thread-1 : 192.168.0.45 - - [08/Dec/2021 23:00:15] "GET / HTTP/1.1" 200 -
+2021-12-08 23:00:15,504 INFO werkzeug Thread-3 : 192.168.0.45 - - [08/Dec/2021 23:00:15] "GET /static/js/app.js HTTP/1.1" 200 -
+2021-12-08 23:00:15,504 INFO werkzeug Thread-2 : 192.168.0.45 - - [08/Dec/2021 23:00:15] "GET /static/css/style.css HTTP/1.1" 200 -
+2021-12-08 23:02:03,015 INFO werkzeug Thread-4 : 192.168.0.45 - - [08/Dec/2021 23:02:03] "GET /geocoder HTTP/1.1" 200 -
